@@ -1,9 +1,9 @@
-# Jekyll on Render
+# create-react-app on Render
 
-This is a minimal [Jekyll](https://jekyllrb.com/) site bootstrapped with the `jekyll new` command.
+This is a minimal React static site bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-The sample app is deployed on Render at https://jekyll.onrender.com.
+The sample app is deployed on Render at https://cra.onrender.com.
 
 ## Deployment
 
-Follow the guide at https://render.com/docs/deploy-jekyll.
+Follow the guide at https://render.com/docs/deploy-create-react-app.
